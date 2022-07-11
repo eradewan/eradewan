@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @eradewan
+- 👋 Hi, I’m Era!
 - 👀 I’m interested in pure math (and its history), technology start-ups, computer science theory, and social entrepreneurship.
 - 💞 I’m studying computer science and business at the University of Pennsylvania's M&T program. 
-- 📫 How to reach me: edewan@wharton.upenn.edy 
+- 🐦 I'm active on twitter @iamedewan!  
+- 📫 You can contact me at edewan@wharton.upenn.edu. 
+
 
 
